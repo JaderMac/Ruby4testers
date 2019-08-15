@@ -1,2 +1,2 @@
 # Ruby4testers
-Exercícios do curso Ruby para Testers
+Exercícios de aula do curso Ruby para Testers
